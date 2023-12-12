@@ -14,5 +14,7 @@ Webappen (Airbean) går ut på att du kan beställa kaffe och få den levererad 
 
 ## Inlämning
 Lämna in ett Github-repo innehållandes länken till er FigJam-skiss i Readme.md-filen som ni får med när ni skapar ert repo. I samma Readme.md-fil skall ni även skriva er sammanfattning. Läs på och använd rätt syntax för markdown-filer med rubriker, underubriker och punkter osv.
+
 Ni väljer ut en person i gruppen som skapar gruppens repo, och alla i gruppen måste länka till repot i inlämningen på Azomo var för sig för at kuna få godkänt.
+
 Deadline för uppgiften är satt till den 17/12 kl 23:59. 
