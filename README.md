@@ -9,6 +9,7 @@ Webappen (Airbean) går ut på att du kan beställa kaffe och få den levererad 
 ## För att få Godkänt ska ni:
 
 * Lämna in en FigJam där ni har analyserat och ritat upp Airbean utifrån de olika delproceserna (decompisition, pattern recognition, abstraction, algorithm design).
+* Er algorithm design skall representera beställningsflödet från det att användaren landar på sidan, tills en beställning är bekräftad. 
 * Ni behöver även lämna in en detaljerad sammanfattning av ert arbete, innehållandes separata beskrivningar av era 4 analysmodeller, vilka avvägningar ni gjort under ert arbete och vilka egna tolkningar som gjorts.
 * Ni kan ha en FigJam med alla fyra delar i men tydligt separerade eller fyra olika filer en för varje delprocess, det bestämmer ni själva.
 
